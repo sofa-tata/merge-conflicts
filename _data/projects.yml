@@ -1,16 +1,9 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
-
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# ezra
+- project: EZRA
+  role: Interaction Designer
+  duration: may 2019 &mdash; july 2019
+  url: "https://www.behance.net/gallery/92204353/EZRA-App-for-kids-and-teens-UXUI"
+  description: The web application about sustainable transportation for kids and teens
